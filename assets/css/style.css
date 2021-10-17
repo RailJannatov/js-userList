@@ -1,0 +1,25 @@
+th,
+td,
+table {
+    border: 1px solid black;
+    font-size: 25px;
+}
+
+#tableDisplay {
+    margin-top: 50px;
+}
+
+.addBtn {
+    background-color: #297eff;
+    color: #fff;
+    padding: 5px 14px;
+    margin-left: 26px;
+    border-color: transparent;
+    border-color: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.style {
+    background-color: blue;
+}
